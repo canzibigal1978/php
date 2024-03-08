@@ -5,3 +5,5 @@ Curso de PHP
 ## Curso de PHP #02 - Constantes e Variáveis
 ## Curso de PHP #03 - Operações com Variáveis
 ## Curso de PHP #04 - Arrays (Vetores)
+## Curso de PHP #05 - Comando condicional IF ELSE
+## Curso de PHP #06 - Comando SWITCH CASE

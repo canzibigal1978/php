@@ -1,26 +1,23 @@
 <?php
-
-
 // IF-ELSE
 
-$nota1=75;
+$nota1 = 75;
 
-if($nota1>=70){
+if ($nota1 >= 70) {
     echo "<font color=blue>Aprovado</font>";
-}elseif ($nota1>=50) {
+} elseif ($nota1 >= 50) {
     echo"<font color=orange>Recuperação</fonte>";
-}else{
+} else {
     echo "<font color=red>Reprovado</font>";
 }
 
 echo "<hr/>";
 
-if(($nota1 >= 40)&($nota1<=60)){
+if (($nota1 >= 40) & ($nota1 <= 60)) {
     echo"aluno selecionado";
-}else{
+} else {
     echo "aluno fora da faixa";
 }
-
 ?>
 <html>
     <head>
