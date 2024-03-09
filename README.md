@@ -10,3 +10,5 @@
 ## Curso de PHP #07 - Loop While
 ## Curso de PHP #08 - Loop Do While
 ## Curso de PHP #09 - Loop FOR
+## Curso de PHP #10 - Loop FOREACH 
+## Curso de PHP #11 - Break
