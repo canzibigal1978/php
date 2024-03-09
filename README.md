@@ -12,3 +12,4 @@
 ## Curso de PHP #09 - Loop FOR
 ## Curso de PHP #10 - Loop FOREACH 
 ## Curso de PHP #11 - Break
+## Curso de PHP #12 - Funções
