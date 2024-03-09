@@ -8,3 +8,5 @@
 ## Curso de PHP #05 - Comando condicional IF ELSE
 ## Curso de PHP #06 - Comando SWITCH CASE
 ## Curso de PHP #07 - Loop While
+## Curso de PHP #08 - Loop Do While
+## Curso de PHP #09 - Loop FOR
