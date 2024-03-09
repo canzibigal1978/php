@@ -1,5 +1,5 @@
 # php
-Curso de PHP
+# Curso de PHP
 
 ## Curso de PHP #01 - Introdução ao PHP
 ## Curso de PHP #02 - Constantes e Variáveis
@@ -7,3 +7,4 @@ Curso de PHP
 ## Curso de PHP #04 - Arrays (Vetores)
 ## Curso de PHP #05 - Comando condicional IF ELSE
 ## Curso de PHP #06 - Comando SWITCH CASE
+## Curso de PHP #07 - Loop While
