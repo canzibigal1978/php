@@ -15,3 +15,5 @@
 ## Curso de PHP #12 - Funções
 ## Curso de PHP #13 - Recebendo dados de formulário HTML
 ## Curso de PHP #14 - Funções recursivas
+## Curso de PHP #15 - Manipulação de Data e Hora
+### date_default_timezone_set("America/Sao_Paulo"); // inserir no começo do arquivo
